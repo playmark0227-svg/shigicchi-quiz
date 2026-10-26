@@ -1,0 +1,1 @@
+{"name":"shigicchi-quiz","version":"1.0.0","private":true,"scripts":{"serve":"python3 -m http.server 4173","test":"node scripts/test.cjs"},"devDependencies":{"@playwright/test":"^1.56.0","sharp":"^0.35.5"}}

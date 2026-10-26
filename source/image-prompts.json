@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "file": "assets/q01.webp",
+    "subject": "トイレの水とレバー",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. A finished wide children's educational quiz illustration, cute hand-painted picture book art with pastel mint, warm cream, orange accents, soft paper texture, clear clean shapes. Subject: トイレの水とレバー。A clean white flush toilet in a bright bathroom, a child looking curiously at a water drop mascot. No text, no numbers, no letters. Landscape composition, large subject centered, no border, no quiz answers printed."
+  },
+  {
+    "id": 2,
+    "file": "assets/q02.webp",
+    "subject": "流氷と冬の海",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 流氷と冬の海. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 3,
+    "file": "assets/q03.webp",
+    "subject": "藻琴山のわき水と地下水",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 藻琴山の自然なわき水、山の泉、澄んだ地下水が湧く場所、その水を水道として使う小さな町。No surface river or ocean in foreground. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects. No text, no labels, no numbers, no letters, no borders."
+  },
+  {
+    "id": 4,
+    "file": "assets/q04.webp",
+    "subject": "ごみの分別とリサイクル",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: ごみの分別とリサイクル. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 5,
+    "file": "assets/q05.webp",
+    "subject": "町の下水処理場",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 町の下水処理場. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 6,
+    "file": "assets/q06.webp",
+    "subject": "りんごの木",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: りんごの木. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 7,
+    "file": "assets/q07.webp",
+    "subject": "パンと小麦",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: パンと小麦. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 8,
+    "file": "assets/q08.webp",
+    "subject": "飲み水とコップ",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 飲み水とコップ. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 9,
+    "file": "assets/q09.webp",
+    "subject": "牛と北海道の農場",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 牛と北海道の農場. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 10,
+    "file": "assets/q10.webp",
+    "subject": "きゅうりと野菜",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: きゅうりと野菜. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders. This is a thematic picture and must not label the correct quiz answer."
+  },
+  {
+    "id": 11,
+    "file": "assets/q11.webp",
+    "subject": "田んぼとお米",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 田んぼとお米. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 12,
+    "file": "assets/q12.webp",
+    "subject": "北海道の野生動物 ヒグマ、エゾシカ、キツネ",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 北海道の野生動物 ヒグマ、エゾシカ、キツネ. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 13,
+    "file": "assets/q13.webp",
+    "subject": "犬と人間",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 犬と人間. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 14,
+    "file": "assets/q14.webp",
+    "subject": "3R リユース リデュース リサイクル",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 3R リユース リデュース リサイクル. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 15,
+    "file": "assets/q15.webp",
+    "subject": "ベーコンと農場の動物",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: ベーコンと農場の動物. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 16,
+    "file": "assets/q16.webp",
+    "subject": "運動する子どもと飲み物",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 運動する子どもと飲み物. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 17,
+    "file": "assets/q17.webp",
+    "subject": "いちご",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: いちご. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 18,
+    "file": "assets/q18.webp",
+    "subject": "チーズと牛乳",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: チーズと牛乳. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 19,
+    "file": "assets/q19.webp",
+    "subject": "運動する子どもと水筒",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 運動する子どもと水筒. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 20,
+    "file": "assets/q20.webp",
+    "subject": "北海道の漁港と畑",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 北海道の漁港と畑. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 21,
+    "file": "assets/q21.webp",
+    "subject": "トリとブタと人間",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: トリとブタと人間. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 22,
+    "file": "assets/q22.webp",
+    "subject": "ペンギン",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: ペンギン. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 23,
+    "file": "assets/q23.webp",
+    "subject": "水鳥のいる北海道の湖",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 水鳥のいる北海道の湖. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 24,
+    "file": "assets/q24.webp",
+    "subject": "秋の赤いサンゴ草と湖",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 秋の赤いサンゴ草と湖. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 25,
+    "file": "assets/q25.webp",
+    "subject": "リサイクルされた日用品",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: リサイクルされた日用品. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 26,
+    "file": "assets/q26.webp",
+    "subject": "コップと水差し",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: コップと水差し. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 27,
+    "file": "assets/q27.webp",
+    "subject": "サケとネコとカメ",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: サケとネコとカメ. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 28,
+    "file": "assets/q28.webp",
+    "subject": "ぐっすり眠る子ども",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: ぐっすり眠る子ども. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 29,
+    "file": "assets/q29.webp",
+    "subject": "水鳥と湿地",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 水鳥と湿地. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 30,
+    "file": "assets/q30.webp",
+    "subject": "リサイクル繊維の服と鞄",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: リサイクル繊維の服と鞄. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 31,
+    "file": "assets/q31.webp",
+    "subject": "秋のアッケシソウ",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 秋のアッケシソウ. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 32,
+    "file": "assets/q32.webp",
+    "subject": "美しい蛾",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 美しい蛾. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 33,
+    "file": "assets/q33.webp",
+    "subject": "海のクラゲ",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 海のクラゲ. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 34,
+    "file": "assets/q34.webp",
+    "subject": "塩生植物の赤い草",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 塩生植物の赤い草. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 35,
+    "file": "assets/q35.webp",
+    "subject": "水を飲む子ども",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 水を飲む子ども. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 36,
+    "file": "assets/q36.webp",
+    "subject": "町とごみ収集",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 町とごみ収集. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 37,
+    "file": "assets/q37.webp",
+    "subject": "世界のごみ",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 世界のごみ. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 38,
+    "file": "assets/q38.webp",
+    "subject": "日本のごみ収集車",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 日本のごみ収集車. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 39,
+    "file": "assets/q39.webp",
+    "subject": "中国の街とごみ収集",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 中国の街とごみ収集. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 40,
+    "file": "assets/q40.webp",
+    "subject": "海を漂うプラスチック",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 海を漂うプラスチック. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": 41,
+    "file": "assets/q41.webp",
+    "subject": "砂浜の小さなプラスチック",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: educational quiz question image for elementary school children. Subject: 砂浜の小さなプラスチック. Cute polished hand-painted Japanese picture book illustration, mint green warm cream and orange palette, gentle paper grain, friendly inviting classroom mood. Wide landscape composition with a few large clear subjects, balanced. No text, no labels, no numbers, no answer marks, no letters, no borders."
+  },
+  {
+    "id": "hero",
+    "file": "assets/hero.webp",
+    "method": "built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: full width title screen background for a Japanese elementary school nature quiz game. Beautiful charming hand painted children's storybook illustration. A small cute plump sandpiper bird (shigi), pale beige body, brown head and wings, long thin black bill, tiny orange legs, friendly rounded eyes, stands in center foreground on a meadow. Bird holds a little leaf. Surrounded by a calm Hokkaido wetland adventure landscape, river, leafy trees, small flowers, distant mountains, a little farm, duck, clouds. Warm cream sky, mint greens, sage, soft orange. Large bird in center lower area. Wide landscape 3:2 composition, textured gouache, professional inviting picture book aesthetic. NO text NO letters NO numbers NO logo."
+  }
+]
